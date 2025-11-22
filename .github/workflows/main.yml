@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: sample checkout step
-    - run: echo "this is my first workflow"
+      run: echo "this is my first workflow"
